@@ -1,0 +1,14 @@
+#Other changes
+Other miscellaneous changes from the Modernist Versions Project transcription I've made in these files and/or on the InfiniteUlysses.com display fo the text.
+
++ Preface and index material:
+Removed; may be made available on other pages of this site.
+
++ SMP:
+Although not present in this printing, later editions of the novel begin each of the novel's three main sections (Stephen's, Bloom's, and Molly's episode[s]) by enlarging the first letter of the text for that section. There are varying interpretations for how this highlights the main characters' names: S (Stephen), M (Molly Bloom), and P (Poldy, Molly's nickname for Leopold Bloom).
+
++ Page numbering:
+In the print edition, pages are numbered through in the top left-hand corner; I've removed these from the page text and use them as the title for that page's text instead (i.e. you can check a page's title on the website to see where you would find it in a copy of the 1922 first printing). Where page numbers were missing from the transcription (e.g. 15) I used the digital images to determine the text cutoffs for that page.
+
++ Variously throughout (beginning on print page 17):
+On some of the print pages, extra numbering appears in the bottom right-hand corner (as opposed to the top left-hand and right-hand, where normal page numbering appears). I have removed these throughout.
