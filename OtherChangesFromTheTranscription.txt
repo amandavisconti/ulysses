@@ -12,3 +12,6 @@ In the print edition, pages are numbered through in the top left-hand corner; I'
 
 + Variously throughout (beginning on print page 17):
 On some of the print pages, extra numbering appears in the bottom right-hand corner (as opposed to the top left-hand and right-hand, where normal page numbering appears). I have removed these throughout.
+
++ Page 31:
+"Good man" for "Goood man".
