@@ -15,3 +15,6 @@ On some of the print pages, extra numbering appears in the bottom right-hand cor
 
 + Page 31:
 "Good man" for "Goood man".
+
++ Page 31:
+"board" for "bo ard"
