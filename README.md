@@ -2,6 +2,8 @@ Ulysses
 =======
 This repo contains a reliable digital text of James Joyce's novel *Ulysses* built off the Creative Commons licensed plaintext transcription of the 1922 first printing of Ulysses by **Matthew Kochis** and **Patrick Belk** with the **[Modernist Versions Project] (http://web.uvic.ca/~mvp1922/)**; **Amanda Visconti** has added transcription-error corrections, regex formatting replacements, and HTML/CSS for important typographical choices used in the 1922 first printing of the novel (as verified against the Modernist Versions Project's digital images of the printing). This is the text used in the **[InfiniteUlysses.com](http://www.InfiniteUlysses.com)** digital edition of *Ulysses*.
 
+**NOTE**: I'm finding formatting changes and corrections as I annotate these chapters that aren't in the CSVs/.exports yet. Will add those as I have time, but the current files are largely usable (you can check them against the corrections and changes TXTs in this repo, which I do keep updated with the latest changes).
+
 ## CSVs
 Used to bulk-import pages of a given Ulysses episode. Contain formatting (e.g. dialogue indentations) but not typography (e.g. italicizations, centering, all-caps). Will update here with import instructions eventually.
 - [x] Episode 1, Telemachus
