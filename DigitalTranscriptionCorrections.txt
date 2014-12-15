@@ -17,6 +17,8 @@ Corrections I made to the current Modernist Versions Project transcription (TXT)
 
 + Page 24: "— Yes, sir" for "— Yes, fir"
 
++ Page 24: "From a hill" (removed line break after From)
+
 + Page 25: "Weaver" for "Wearer"
 
 + Page 25: removed line break after "under" in penultimate line
